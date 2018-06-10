@@ -1,0 +1,17 @@
+commit 06928f69ca1b8ce9c95efb3627cc959b7783338b
+Author: Mike <devayani.dahake@gmail.com>
+Date:   Sun Jun 10 11:09:46 2018 +0530
+
+    modified css attributes
+
+commit 67893b1fada1046d99982c1f591762ba1536d7d3
+Author: Mike <devayani.dahake@gmail.com>
+Date:   Sun Jun 10 10:51:21 2018 +0530
+
+    added feature file
+
+commit fc6fc805e59ca6dd3107844dda5ac82868090c15
+Author: Mike <devayani.dahake@gmail.com>
+Date:   Sun Jun 10 10:43:51 2018 +0530
+
+    moved sample-project code base into master
