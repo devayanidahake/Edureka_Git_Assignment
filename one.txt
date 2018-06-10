@@ -2,3 +2,5 @@ This is feature file added in feature branch.
 
 First commit to the feature branch.
 
+This is second commit to this feature file.
+
